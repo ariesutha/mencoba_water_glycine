@@ -4,3 +4,5 @@
 4. Tes dengan glycine zwiterrionic. Bandingkan dengan hasil nomor 3 (Pakai N+ dan COO-)
 5. Adopt 2 untuk zwitterionic
 6. Adopt 3 untuk zwitterionic
+
+<img width="666" height="457" alt="image" src="https://github.com/user-attachments/assets/e1d1a1d4-8d83-457f-be6f-ff1ea1fa0bda" />
